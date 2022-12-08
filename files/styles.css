@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Montaga, "PT Serif", Forum;
+    background-color: var(--white);
+    font-size: 18px;
+  }
+
+.rounded {
+    padding:10px;
+    margin: 10px;
+    border-radius:10px;
+    width: 95%;
+    font-size: 24px;
+  }
+
+  #errorMessage {
+    color: red;
+    text-decoration: double;
+  }
